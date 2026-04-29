@@ -115,6 +115,16 @@ Partial products are shifted based on bit position to align them correctly.
 * GTKWave (for waveform viewing)
 
 ---
+## 📸 Simulation Results
+
+### 🔹 Waveform Output
+
+![Waveform](sim/waveform.png)
+
+### 🔹 Console Output
+
+![Output](sim/output.png)
+
 
 ## 🧠 Key Learning Outcomes
 
