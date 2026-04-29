@@ -119,7 +119,7 @@ Partial products are shifted based on bit position to align them correctly.
 
 ### 🔹 Waveform Output
 
-![Waveform](sim/waveform.png)
+![Waveform]([sim/waveform.png](https://github.com/CalvinAndrewDcruz/4bit-multiplier-verilog/blob/main/Screenshot%202026-04-29%20120403.png))
 
 ### 🔹 Console Output
 
