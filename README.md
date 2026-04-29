@@ -123,7 +123,7 @@ Partial products are shifted based on bit position to align them correctly.
 
 ### 🔹 Console Output
 
-![Output](sim/output.png)
+![Output]([sim/output.png](https://github.com/CalvinAndrewDcruz/4bit-multiplier-verilog/blob/main/Screenshot%202026-04-29%20120429.png))
 
 
 ## 🧠 Key Learning Outcomes
